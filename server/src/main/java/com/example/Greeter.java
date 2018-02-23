@@ -15,7 +15,7 @@ public class Greeter {
   /**
    *
    * @param someone
-   * @returnhelloccmcnmc
+   * @return
    */
 
   public final String greet(final String someone) {
